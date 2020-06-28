@@ -1,1 +1,4 @@
-Arquivo para testes do git
+Arquivo para testes do git.
+
+Outra alteração do arquivo para subir para o git.
+
